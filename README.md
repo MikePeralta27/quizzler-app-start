@@ -1,6 +1,6 @@
 # Quizzler APP
 
-Quizz game of Computer science Questions created with python and Tkinter featching data from Open [Trivia API](https://opentdb.com/)
+Quizz game of Computer science Questions created with python and Tkinter featching data from [Open Trivia API](https://opentdb.com/)
 
 ## Dependencies
 - TKinter
